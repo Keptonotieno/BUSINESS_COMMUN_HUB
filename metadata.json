@@ -1,0 +1,6 @@
+{
+  "name": "Business Communication Platform",
+  "description": "An enterprise-grade, multi-tenant SaaS platform for bulk SMS, WhatsApp messaging, and email campaigns with marketing automation and delivery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
